@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw4", "hw4\hw4.csproj", "{D07F6DDE-C826-4A93-9C8F-B65FE3F719F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Tumakov\Tumakov.csproj", "{A601166E-146F-4BC3-85FA-3BBD65C09DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07F6DDE-C826-4A93-9C8F-B65FE3F719F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07F6DDE-C826-4A93-9C8F-B65FE3F719F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07F6DDE-C826-4A93-9C8F-B65FE3F719F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07F6DDE-C826-4A93-9C8F-B65FE3F719F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A601166E-146F-4BC3-85FA-3BBD65C09DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A601166E-146F-4BC3-85FA-3BBD65C09DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A601166E-146F-4BC3-85FA-3BBD65C09DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A601166E-146F-4BC3-85FA-3BBD65C09DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8DB7466-F64F-4B55-BC5B-8D2ECE35FCDA}
+	EndGlobalSection
+EndGlobal
